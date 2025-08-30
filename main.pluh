@@ -1,0 +1,6 @@
+fn main() {
+    a = 5;
+    print("Hi");
+    print a;
+    pause;
+}
